@@ -1,3 +1,4 @@
+```
 package main
 
 // main package is an executable one, the name except the word main are the custom packages which is not executable
@@ -18,3 +19,5 @@ func main() {
 }
 
 // Tips : Go is one of the Static Types Programming Language like C++ and Java
+
+```
