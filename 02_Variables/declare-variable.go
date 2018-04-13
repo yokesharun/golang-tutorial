@@ -1,9 +1,8 @@
-```
 package main
 
 import "fmt"
 
-func main() {
+func variables() {
 
 	// declaring a new variable - string
 	var stringVariable = "A variable"
@@ -24,4 +23,3 @@ func main() {
 }
 
 // Note: the string values and import packages name must be with in " "
-```

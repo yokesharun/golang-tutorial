@@ -1,9 +1,8 @@
-```
 package main
 
 import "fmt"
 
-func main() {
+func showForLoop() {
 
 	// initializing the variable where i = 1
 	for i := 1; i <= 3; i++ {
@@ -14,5 +13,3 @@ func main() {
 }
 
 // Note : break, continue features are also used
-
-```
